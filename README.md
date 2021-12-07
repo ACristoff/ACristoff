@@ -6,10 +6,10 @@
 - GZDoom project 
 
 🌱 I’m currently learning:
-- React
-- NodeJS
-- SQL
-- MongoDB
+- ✨ React
+- ✨ NodeJS
+- ✨ SQL
+- ✨ MongoDB
 
 💬 Ask me about:
 - My freelancing work
