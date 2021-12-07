@@ -14,6 +14,7 @@
 💬 Ask me about:
 - My freelancing work
 - React applications
+- Archery
 - Videogames
 
 📫 How to reach me:
