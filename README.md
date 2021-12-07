@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Alex Cristoffanini a full stack web developer
 
 🔭 I’m currently working on:
 - Client CRM project
