@@ -6,15 +6,15 @@
 - GZDoom project 
 
 🌱 I’m currently learning:
-React
-NodeJS
-SQL
-MongoDB
+- React
+- NodeJS
+- SQL
+- MongoDB
 
 💬 Ask me about:
-My freelancing work
-React applications
-Videogames
+- My freelancing work
+- React applications
+- Videogames
 
 <!--
 **ACristoff/ACristoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
