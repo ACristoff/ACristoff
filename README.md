@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Alex Cristoffanini a full stack web developer
 
 🔭 I’m currently working on:
-- Client CRM project
+- A pop culture trivia wordle
 - Personal site
 - GZDoom project 
 
