@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Alex Cristoffanini a full stack web developer
 
 🔭 I’m currently working on:
+- @ The Coalition
 - A pop culture trivia wordle
 - Personal site
 - GZDoom project 
@@ -8,8 +9,7 @@
 🌱 I’m currently learning:
 - ✨ React
 - ✨ NodeJS
-- ✨ SQL
-- ✨ MongoDB
+- ✨ GraphQL
 
 💬 Ask me about:
 - My freelancing work
