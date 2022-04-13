@@ -4,7 +4,6 @@
 - @ The Coalition
 - A pop culture trivia wordle
 - Personal site
-- GZDoom project 
 
 🌱 I’m currently learning:
 - ✨ React
