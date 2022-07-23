@@ -1,18 +1,18 @@
 ### Hi there 👋, I'm Alex Cristoffanini a full stack web developer
 
-🔭 I’m currently working on:
+🔭 I’m currently working:
 - @ The Coalition
-- A pop culture trivia wordle
+- Personal game projects
 - Personal site
 
 🌱 I’m currently learning:
 - ✨ React
-- ✨ NodeJS
+- ✨ Gatsby
 - ✨ GraphQL
 
 💬 Ask me about:
 - My freelancing work
-- React applications
+- Web apps
 - 🏹 Archery
 - Videogames
 
