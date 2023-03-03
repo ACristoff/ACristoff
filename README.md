@@ -7,7 +7,7 @@
 
 🌱 I’m currently learning:
 - ✨ React
-- ✨ Gatsby
+- ✨ NextJS
 - ✨ GraphQL
 
 💬 Ask me about:
