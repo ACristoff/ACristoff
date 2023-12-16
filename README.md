@@ -1,14 +1,17 @@
-### Hi there 👋, I'm Alex Cristoffanini a full stack web developer
+### Hi there 👋, I'm Alex Cristoffanini a full stack developer. Previously @Microsoft at The Coalition
 
 🔭 I’m currently working:
-- @ The Coalition
 - Personal game projects
-- Personal site
+- Personal and professional site
 
 🌱 I’m currently learning:
-- ✨ React
 - ✨ NextJS
-- ✨ GraphQL
+- ✨ Unreal Engine 5
+- ✨ Godot
+
+👯 I’m looking to collaborate on:
+- Game Jams
+- Codeathons 
 
 💬 Ask me about:
 - My freelancing work
