@@ -22,7 +22,7 @@
 📫 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/acristoff/
 - Twitter: @DiFigurati
-- Discord: Digifigurati#0638
+- Discord: digispizza
 <!--
 **ACristoff/ACristoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
