@@ -11,7 +11,7 @@
 
 👯 I’m looking to collaborate on:
 - Game Jams
-- Codeathons 
+- Codeathons
 
 💬 Ask me about:
 - My freelancing work
