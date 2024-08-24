@@ -5,9 +5,9 @@
 - Personal and professional site
 
 🌱 I’m currently learning:
+- ✨ Godot
 - ✨ NextJS
 - ✨ Unreal Engine 5
-- ✨ Godot
 
 👯 I’m looking to collaborate on:
 - Game Jams
